@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TutorialCS", "TutorialCS\", "{D0A917D4-9683-4E5F-88F4-B302FB74EA64}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TutorialCS"
+		Debug.AspNetCompiler.PhysicalPath = "TutorialCS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TutorialCS\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TutorialCS"
+		Release.AspNetCompiler.PhysicalPath = "TutorialCS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TutorialCS\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49657"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TutorialVB", "TutorialVB\", "{83457EE9-D88A-42A4-ACB4-6CD3C14C641B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TutorialVB"
+		Debug.AspNetCompiler.PhysicalPath = "TutorialVB\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TutorialVB\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TutorialVB"
+		Release.AspNetCompiler.PhysicalPath = "TutorialVB\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TutorialVB\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60924"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0A917D4-9683-4E5F-88F4-B302FB74EA64}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{83457EE9-D88A-42A4-ACB4-6CD3C14C641B}.Debug|.NET.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
